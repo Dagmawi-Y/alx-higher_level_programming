@@ -57,7 +57,3 @@ Each script corresponds to a specific task, covering various aspects of Python p
     $ python3 script_name.py
     ```
 4. Follow the instructions provided in each script's comments or output.
-
-## License
-
-This project is licensed under the terms of the [ALX License](LICENSE).
