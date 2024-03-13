@@ -56,4 +56,4 @@ Each script corresponds to a specific task, covering various aspects of Python p
     ```
     $ python3 script_name.py
     ```
-4. Follow the instructions provided in each script's comments or output.
+4. Follow the instructions provided in each script's comments or output
