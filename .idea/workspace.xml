@@ -5,30 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e520a98-cfe4-44b1-aef2-ac639075b318" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/0x08-python-more_classes/0-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08-python-more_classes/0-rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08-python-more_classes/1-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08-python-more_classes/1-rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08-python-more_classes/101-nqueens.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08-python-more_classes/2-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08-python-more_classes/2-rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08-python-more_classes/3-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08-python-more_classes/3-rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08-python-more_classes/4-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08-python-more_classes/4-rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08-python-more_classes/5-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08-python-more_classes/5-rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08-python-more_classes/6-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08-python-more_classes/6-rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08-python-more_classes/7-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08-python-more_classes/7-rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08-python-more_classes/8-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08-python-more_classes/8-rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08-python-more_classes/9-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08-python-more_classes/9-rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x08-python-more_classes/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-python-everything_is_object/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-python-everything_is_object/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,11 +52,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Daggy\PycharmProjects\alx-higher_level_programming\0x09-python-everything_is_object" />
+      <recent name="C:\Users\Daggy\PycharmProjects\alx-higher_level_programming\0x07-python-test_driven_development" />
       <recent name="C:\Users\Daggy\PycharmProjects\alx-higher_level_programming\0x08-python-more_classes" />
       <recent name="C:\Users\Daggy\PycharmProjects\alx-higher_level_programming\0x06-python-classes" />
       <recent name="C:\Users\Daggy\PycharmProjects\alx-higher_level_programming\0x05-python-exceptions" />
-      <recent name="C:\Users\Daggy\PycharmProjects\alx-higher_level_programming" />
-      <recent name="C:\Users\Daggy\PycharmProjects\alx-higher_level_programming\0x04-python-more_data_structures" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -103,7 +81,9 @@
       <workItem from="1712007051563" duration="426000" />
       <workItem from="1712095891907" duration="348000" />
       <workItem from="1712415313859" duration="12000" />
-      <workItem from="1712618450572" duration="146000" />
+      <workItem from="1712618450572" duration="1376000" />
+      <workItem from="1712730772877" duration="3171000" />
+      <workItem from="1712911726731" duration="23000" />
     </task>
     <servers />
   </component>
