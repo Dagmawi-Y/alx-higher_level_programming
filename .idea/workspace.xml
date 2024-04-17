@@ -5,22 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e520a98-cfe4-44b1-aef2-ac639075b318" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/0-read_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/1-write_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/10-student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/100-append_after.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/101-stats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/11-student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/12-pascal_triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/2-append_write.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/3-to_json_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/4-from_json_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/5-save_to_json_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/6-load_from_json_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/7-add_item.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/8-class_to_json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/9-student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0B-python-input_output/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/0-lookup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/0-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/1-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/1-my_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/10-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/10-square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/100-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/100-my_int.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/101-add_attribute.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/101-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/11-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/11-square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/2-is_same_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/2-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/3-is_kind_of_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/3-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/4-inherits_from.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/4-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/5-base_geometry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/5-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/6-base_geometry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/6-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/7-base_geometry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/7-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/8-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/8-rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/9-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/9-rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/tests/1-my_list.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/tests/7-base_geometry.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,29 +64,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Daggy\PycharmProjects\alx-higher_level_programming\0x0A-python-inheritance" />
       <recent name="C:\Users\Daggy\PycharmProjects\alx-higher_level_programming\0x0B-python-input_output" />
       <recent name="C:\Users\Daggy\PycharmProjects\alx-higher_level_programming\0x09-python-everything_is_object" />
       <recent name="C:\Users\Daggy\PycharmProjects\alx-higher_level_programming\0x07-python-test_driven_development" />
       <recent name="C:\Users\Daggy\PycharmProjects\alx-higher_level_programming\0x08-python-more_classes" />
-      <recent name="C:\Users\Daggy\PycharmProjects\alx-higher_level_programming\0x06-python-classes" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -99,7 +115,8 @@
       <workItem from="1712618450572" duration="1376000" />
       <workItem from="1712730772877" duration="3171000" />
       <workItem from="1712911726731" duration="697000" />
-      <workItem from="1713277112967" duration="1135000" />
+      <workItem from="1713277112967" duration="1635000" />
+      <workItem from="1713341005839" duration="361000" />
     </task>
     <servers />
   </component>
