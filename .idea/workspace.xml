@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e520a98-cfe4-44b1-aef2-ac639075b318" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/0-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/1-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/10-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/100-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/101-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/11-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/12-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/13-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/14-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/15-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/16-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/17-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/18-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/2-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/3-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/4-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/5-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/6-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/7-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/8-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/9-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0C-python-almost_a_circle/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +87,7 @@
       <workItem from="1713277112967" duration="1635000" />
       <workItem from="1713341005839" duration="874000" />
       <workItem from="1713891812191" duration="923000" />
-      <workItem from="1714293597630" duration="1495000" />
+      <workItem from="1714293597630" duration="1795000" />
     </task>
     <servers />
   </component>
