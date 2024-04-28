@@ -5,37 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e520a98-cfe4-44b1-aef2-ac639075b318" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/0-lookup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/0-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/1-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/1-my_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/10-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/10-square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/100-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/100-my_int.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/101-add_attribute.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/101-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/11-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/11-square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/2-is_same_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/2-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/3-is_kind_of_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/3-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/4-inherits_from.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/4-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/5-base_geometry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/5-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/6-base_geometry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/6-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/7-base_geometry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/7-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/8-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/8-rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/9-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/9-rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/tests/1-my_list.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/tests/7-base_geometry.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/0-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/1-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/10-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/100-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/101-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/11-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/12-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/13-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/14-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/15-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/16-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/17-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/18-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/2-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/3-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/4-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/5-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/6-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/7-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/8-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/9-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,30 +55,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Daggy\PycharmProjects\alx-higher_level_programming\0x0C-python-almost_a_circle" />
       <recent name="C:\Users\Daggy\PycharmProjects\alx-higher_level_programming\0x0A-python-inheritance" />
       <recent name="C:\Users\Daggy\PycharmProjects\alx-higher_level_programming\0x0B-python-input_output" />
       <recent name="C:\Users\Daggy\PycharmProjects\alx-higher_level_programming\0x09-python-everything_is_object" />
       <recent name="C:\Users\Daggy\PycharmProjects\alx-higher_level_programming\0x07-python-test_driven_development" />
-      <recent name="C:\Users\Daggy\PycharmProjects\alx-higher_level_programming\0x08-python-more_classes" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -116,7 +107,9 @@
       <workItem from="1712730772877" duration="3171000" />
       <workItem from="1712911726731" duration="697000" />
       <workItem from="1713277112967" duration="1635000" />
-      <workItem from="1713341005839" duration="361000" />
+      <workItem from="1713341005839" duration="874000" />
+      <workItem from="1713891812191" duration="923000" />
+      <workItem from="1714293597630" duration="1495000" />
     </task>
     <servers />
   </component>
