@@ -5,15 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e520a98-cfe4-44b1-aef2-ac639075b318" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D-SQL_introduction/0-list_databases.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D-SQL_introduction/1-create_database_if_missing.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D-SQL_introduction/10-top_score.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D-SQL_introduction/100-move_to_utf8.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D-SQL_introduction/101-avg_temperatures.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D-SQL_introduction/102-top_city.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D-SQL_introduction/103-max_state.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D-SQL_introduction/11-best_score.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D-SQL_introduction/12-no_cheating.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D-SQL_introduction/13-change_class.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D-SQL_introduction/14-average.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D-SQL_introduction/15-groups.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D-SQL_introduction/16-no_link.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D-SQL_introduction/2-remove_database.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D-SQL_introduction/3-list_tables.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D-SQL_introduction/4-first_table.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D-SQL_introduction/5-full_table.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D-SQL_introduction/6-list_values.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D-SQL_introduction/7-insert_value.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D-SQL_introduction/8-count_89.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0D-SQL_introduction/9-full_creation.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/alx-higher_level_programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/alx-higher_level_programming.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x0C-python-almost_a_circle/models/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x0C-python-almost_a_circle/models/base.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x0C-python-almost_a_circle/models/rectangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x0C-python-almost_a_circle/models/square.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x0C-python-almost_a_circle/tests/test_models/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x0C-python-almost_a_circle/tests/test_models/test_base.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x0C-python-almost_a_circle/tests/test_models/test_rectangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x0C-python-almost_a_circle/tests/test_models/test_square.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,12 +43,38 @@
       </list>
     </option>
   </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Dagmawi-Y"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Dagmawi-Y/alx-higher_level_programming.git",
+    "accountId": "c7a296bd-b912-4063-9c1c-9640f330c723"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
   <component name="ProjectId" id="2dZtwJvDdatzVW2tgC785Dp5Kvi" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -41,31 +83,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "terminal",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Daggy\PycharmProjects\alx-higher_level_programming\0x0D-SQL_introduction" />
       <recent name="C:\Users\Daggy\PycharmProjects\alx-higher_level_programming\0x0C-python-almost_a_circle" />
       <recent name="C:\Users\Daggy\PycharmProjects\alx-higher_level_programming\0x0A-python-inheritance" />
       <recent name="C:\Users\Daggy\PycharmProjects\alx-higher_level_programming\0x0B-python-input_output" />
       <recent name="C:\Users\Daggy\PycharmProjects\alx-higher_level_programming\0x09-python-everything_is_object" />
-      <recent name="C:\Users\Daggy\PycharmProjects\alx-higher_level_programming\0x07-python-test_driven_development" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -98,6 +149,7 @@
       <workItem from="1714293597630" duration="3253000" />
       <workItem from="1714300928155" duration="603000" />
       <workItem from="1716154924357" duration="24000" />
+      <workItem from="1717273550484" duration="959000" />
     </task>
     <servers />
   </component>
