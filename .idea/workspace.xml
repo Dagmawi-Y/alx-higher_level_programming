@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e520a98-cfe4-44b1-aef2-ac639075b318" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/0x0C-python-almost_a_circle/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0C-python-almost_a_circle/models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0C-python-almost_a_circle/models/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0C-python-almost_a_circle/models/rectangle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0C-python-almost_a_circle/models/square.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0C-python-almost_a_circle/tests/test_models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0C-python-almost_a_circle/tests/test_models/test_base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0C-python-almost_a_circle/tests/test_models/test_rectangle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0C-python-almost_a_circle/tests/test_models/test_square.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +95,9 @@
       <workItem from="1713277112967" duration="1635000" />
       <workItem from="1713341005839" duration="874000" />
       <workItem from="1713891812191" duration="923000" />
-      <workItem from="1714293597630" duration="1795000" />
+      <workItem from="1714293597630" duration="3253000" />
+      <workItem from="1714300928155" duration="603000" />
+      <workItem from="1716154924357" duration="24000" />
     </task>
     <servers />
   </component>
